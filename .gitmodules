@@ -1,6 +1,0 @@
-[submodule "ProjectSettings"]
-	path = ProjectSettings
-	url = https://loloop@github.com/dedig/dedig-game-jam-2-projectsettings.git
-[submodule "Assets/libs"]
-	path = Assets/libs
-	url = https://loloop@github.com/dedig/dedig-game-jam-2-libs.git
